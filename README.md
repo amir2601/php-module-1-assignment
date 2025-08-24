@@ -39,6 +39,3 @@ A PHP script that converts temperature between **Celsius and Fahrenheit**.
    php temperature_converter.php
 4. Or, place them in your local server (e.g., XAMPP/htdocs) and run from browser:
 
-http://localhost/number_classifier.php
-http://localhost/temperature_converter.php
-
